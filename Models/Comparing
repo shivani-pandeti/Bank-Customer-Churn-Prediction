@@ -1,1 +1,3 @@
-Comapred different ML algos
+This project evaluates the performance of various machine learning models for predicting bank customer churn. The models assessed include Logistic Regression, Random Forest, SVC, Decision Tree, XGB, and Artificial Neural Network.
+Our analysis highlights significant variations in accuracy, F1 score, precision, and recall across these algorithms. The Random Forest model emerged as the top performer with an accuracy of 86.86%, showcasing its superior predictive capabilities compared to the other models.
+
